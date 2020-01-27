@@ -1,4 +1,4 @@
-# Lab: Clean Up The Fridge!
+# Clean Up The Fridge!
 
 ![Dirty Fridge](https://2.bp.blogspot.com/-plaqoWwxUnA/UoVrgyNPUHI/AAAAAAAAAeY/jhALyfFVTpU/s1600/dirty-fridge-clipart-i1.jpg)
 
@@ -8,7 +8,13 @@ Your kitchen is a disaster. We're not blaming anyone, but when we opened up the 
 
 You'll be practicing your command line skills by organizing the files in your refrigerator.
 
-+ Fork and Clone this repository. Once you have it on your machine, `cd` into the project directory. Here is what your refrigerator currently looks like:
++ On your virtual machine, use `cd ~` to go to your root directory.
+
++ Copy this line in to the terminal to get all the directories and files onto your virtual machine: `git clone https://github.com/woodstockcs/clean-up-the-fridge.git`.
+
++ Type `ls` to make sure you see `clean-up-the-fridge`.
+
++ cd into that directory. Use `cd` and `ls` to have a look around your refridgerator. It should look something like this:
 
 ![tree of directories](https://s3.amazonaws.com/upperline/curriculum-assets/command-line/current-tree.png)
 
@@ -19,7 +25,6 @@ mv watermelon.jpg ../produce/fruit
 ```
 This will move the watermelon up one level (..) which will place it in the general fridge directory, and then it is moved into "produce" and then "fruit"
 
-
 + Use `rm` to remove any roaches you find!
 
 + Use `touch` to add at least three new foods - label them as .txt files. For example (in the fruit directory) type:
@@ -27,3 +32,10 @@ This will move the watermelon up one level (..) which will place it in the gener
 ```
 touch peaches.txt
 ```
+
+## How to Submit
+1. Take screenshots of the `ls` listings for each of the six directories in this assignment: freezer, dairy, meat, drinks, fruit, vegetables.
+1. Copy those screenshots into the assignment document on google classroom.
+1. Answer the remaining questions in that document.
+
+**Definition of done = You've followed all the instructions above and pressed 'Turn in' for this assignment's document in google classroom.**
