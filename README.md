@@ -33,6 +33,8 @@ This will move the watermelon up one level (..) which will place it in the gener
 touch peaches.txt
 ```
 
++ Add anything new you learned to the `cheatsheet.txt` file in your root directory.
+
 ## How to Submit
 1. Take screenshots of the `ls` listings for each of the six directories in this assignment: freezer, dairy, meat, drinks, fruit, vegetables.
 1. Copy those screenshots into the assignment document on google classroom.
