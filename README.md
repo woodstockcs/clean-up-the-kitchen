@@ -1,4 +1,4 @@
-# Clean Up The Fridge!
+# Clean Up The Kitchen!
 
 ![Dirty Fridge](https://2.bp.blogspot.com/-plaqoWwxUnA/UoVrgyNPUHI/AAAAAAAAAeY/jhALyfFVTpU/s1600/dirty-fridge-clipart-i1.jpg)
 
@@ -10,11 +10,11 @@ You'll be practicing your command line skills by organizing the files in your re
 
 + On your virtual machine, use `cd ~` to go to your root directory.
 
-+ Copy this line in to the terminal to get all the directories and files onto your virtual machine: `git clone https://github.com/woodstockcs/clean-up-the-fridge.git`.
++ Copy this line in to the terminal to get all the directories and files onto your virtual machine: `git clone https://github.com/woodstockcs/kitchen.git`.
 
-+ Type `ls` to make sure you see `clean-up-the-fridge`.
++ Type `ls` to make sure you see `kitchen`.
 
-+ cd into that directory. Use `cd` and `ls` to have a look around your refridgerator. It should look something like this:
++ cd into that directory. Use `cd` and `ls` to have a look around your kitchen. It should look something like this:
 
 ![tree of directories](https://s3.amazonaws.com/upperline/curriculum-assets/command-line/current-tree.png)
 
